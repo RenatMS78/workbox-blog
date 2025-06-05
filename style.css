@@ -89,7 +89,7 @@ section {
 
 .founder-photo {
   max-width: 100px;
-  border-radius: 50%;
+  border-radius: 100%;
   margin: 20px auto;
   display: block;
 }
